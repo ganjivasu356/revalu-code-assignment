@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/github.io/revalu-code-assignment/static/css/main.f72645f8.css",
-    "main.js": "/github.io/revalu-code-assignment/static/js/main.50bde695.js",
-    "static/js/453.3f26e255.chunk.js": "/github.io/revalu-code-assignment/static/js/453.3f26e255.chunk.js",
-    "static/media/vasuProfile.jpg": "/github.io/revalu-code-assignment/static/media/vasuProfile.39c090d74f42ef94d7f0.jpg",
-    "static/media/filter_vintage.svg": "/github.io/revalu-code-assignment/static/media/filter_vintage.60acd773510ca580165bf34dee1f424f.svg",
-    "index.html": "/github.io/revalu-code-assignment/index.html",
-    "static/media/cloud_download.svg": "/github.io/revalu-code-assignment/static/media/cloud_download.31c016f67d136b59d43e2cf33d1a2eda.svg",
-    "static/media/create_foldersvg.svg": "/github.io/revalu-code-assignment/static/media/create_foldersvg.c79f22efb99297808d555f633feaa435.svg",
-    "static/media/delete.svg": "/github.io/revalu-code-assignment/static/media/delete.5dea5c232eb4bd3492a73efcc498f876.svg",
-    "static/media/folder.svg": "/github.io/revalu-code-assignment/static/media/folder.10767809a1a8d7edd639598c6224c3bf.svg",
-    "static/media/keyboard_arrow_down.svg": "/github.io/revalu-code-assignment/static/media/keyboard_arrow_down.ba4b3f743d15db301277f5b4d8bcbd7c.svg",
-    "static/media/arrow_forward.svg": "/github.io/revalu-code-assignment/static/media/arrow_forward.e0b4b2859affcea3b96dc230a8d0f2aa.svg",
-    "main.f72645f8.css.map": "/github.io/revalu-code-assignment/static/css/main.f72645f8.css.map",
-    "main.50bde695.js.map": "/github.io/revalu-code-assignment/static/js/main.50bde695.js.map",
-    "453.3f26e255.chunk.js.map": "/github.io/revalu-code-assignment/static/js/453.3f26e255.chunk.js.map"
+    "main.css": "/revalu-code-assignment/static/css/main.f72645f8.css",
+    "main.js": "/revalu-code-assignment/static/js/main.f7b71982.js",
+    "static/js/453.3f26e255.chunk.js": "/revalu-code-assignment/static/js/453.3f26e255.chunk.js",
+    "static/media/vasuProfile.jpg": "/revalu-code-assignment/static/media/vasuProfile.39c090d74f42ef94d7f0.jpg",
+    "static/media/filter_vintage.svg": "/revalu-code-assignment/static/media/filter_vintage.60acd773510ca580165bf34dee1f424f.svg",
+    "index.html": "/revalu-code-assignment/index.html",
+    "static/media/cloud_download.svg": "/revalu-code-assignment/static/media/cloud_download.31c016f67d136b59d43e2cf33d1a2eda.svg",
+    "static/media/create_foldersvg.svg": "/revalu-code-assignment/static/media/create_foldersvg.c79f22efb99297808d555f633feaa435.svg",
+    "static/media/delete.svg": "/revalu-code-assignment/static/media/delete.5dea5c232eb4bd3492a73efcc498f876.svg",
+    "static/media/folder.svg": "/revalu-code-assignment/static/media/folder.10767809a1a8d7edd639598c6224c3bf.svg",
+    "static/media/keyboard_arrow_down.svg": "/revalu-code-assignment/static/media/keyboard_arrow_down.ba4b3f743d15db301277f5b4d8bcbd7c.svg",
+    "static/media/arrow_forward.svg": "/revalu-code-assignment/static/media/arrow_forward.e0b4b2859affcea3b96dc230a8d0f2aa.svg",
+    "main.f72645f8.css.map": "/revalu-code-assignment/static/css/main.f72645f8.css.map",
+    "main.f7b71982.js.map": "/revalu-code-assignment/static/js/main.f7b71982.js.map",
+    "453.3f26e255.chunk.js.map": "/revalu-code-assignment/static/js/453.3f26e255.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f72645f8.css",
-    "static/js/main.50bde695.js"
+    "static/js/main.f7b71982.js"
   ]
 }
