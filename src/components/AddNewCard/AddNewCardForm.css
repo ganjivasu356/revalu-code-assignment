@@ -1,0 +1,96 @@
+.AddNewCardForm {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+  border: 1px solid #d9d9d6;
+  border-radius: 12px;
+}
+
+.lable-container {
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 32px;
+}
+.lable-name {
+  font-size: 14px;
+  line-height: 20;
+  font-weight: 500;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+.modal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal-content {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  width: 466px;
+  height: 392px;
+  text-align: left;
+}
+
+.close {
+  float: right;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.form-group {
+  margin-bottom: 15px;
+  border-radius: 6px;
+  padding-top: 12px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.form-group input,
+.form-group textarea {
+  width: 100%;
+  padding: 8px;
+  box-sizing: border-box;
+}
+
+.form-actions {
+  display: flex;
+  float: right;
+}
+
+.submit-lable {
+  font-size: 12px;
+  background: #cbbaf1;
+  padding: 12px 10px 12px 10px;
+  gap: 4px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.cancle-lable {
+  border: none;
+  background-color: #fff;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.char-count {
+  font-size: 12px;
+  color: grey;
+  text-align: right;
+}

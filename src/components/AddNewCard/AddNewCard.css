@@ -1,0 +1,16 @@
+.add-new-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px dashed #ddd;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #f5f5f5;
+    cursor: pointer;
+  }
+  
+  .add-new-card p {
+    margin: 0;
+    color: #007bff;
+  }
+  
